@@ -1,5 +1,5 @@
 title = "欢迎访问宁的网站"
-baseURL = "/hugo-website"
+baseURL = "/"themesDir="themes"theme
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
