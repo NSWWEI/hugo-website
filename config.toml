@@ -2,7 +2,7 @@ title = "欢迎访问宁的网站"
 baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "themes"theme
+themesDir = "theme"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
